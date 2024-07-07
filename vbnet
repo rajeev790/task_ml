@@ -1,0 +1,4 @@
+Ensure you replace `"your_password"` in the `db_settings` dictionary with your actual PostgreSQL password.
+
+This code integrates the sentiment analysis application with a PostgreSQL database for storing analyzed data, Docker containerization for deployment, and includes all necessary requirements. Let me know if you need further assistance!
+
